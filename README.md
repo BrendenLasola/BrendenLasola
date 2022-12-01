@@ -2,9 +2,9 @@
 
 I'm Brenden Lasola from Seattle, Washington. Currently looking for oppurtunities in Data Analysis.
 
-* :computer:**Coding:** R, Python, SQL
-* :world_map:**GIS**: ArcGIS, QGIS
-* :joystick:**Hobbies**: E-Sports, Soccer/Football, and Guitar
+* :computer:  **Coding:** R, Python, SQL
+* :world_map: **GIS**: ArcGIS, QGIS
+* :joystick: **Hobbies**: E-Sports, Soccer/Football, and Guitar
 * :soccer: **Arsenal Fan**
 
 
