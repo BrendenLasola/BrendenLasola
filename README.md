@@ -4,7 +4,9 @@ I'm Brenden Lasola from Seattle, Washington. Currently looking for oppurtunities
 
 * Coding: R, Python, SQL
 * GIS: ArcGIS, QGIS
-* Hobbies: E-Sports (T1 is my favorite team), Soccer, and Guitar! 
+* Hobbies: E-Sports, Soccer/Football, and Guitar
+* About me: Arsenal Fan 
+
 
 
 <!--
