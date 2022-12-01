@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Brenden Lasola from Seattle, Washington. I enjoy doing Data Analysis works 
+I'm Brenden Lasola from Seattle, Washington. Currently looking for oppurtunities in Data Analysis.
+
+* Coding: R, Python, SQL
+* GIS: ArcGIS, QGIS
+* Hobbies: E-Sports (T1 is my favorite team), Soccer, and Guitar! 
+
+
 <!--
 **BrendenLasola/BrendenLasola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
