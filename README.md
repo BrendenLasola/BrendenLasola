@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brenden Lasola from Seattle, Washington. Currently looking for oppurtunities in Data Analysis.
+I'm Brenden Lasola from Seattle, Washington. Currently looking for opportunities in Data Analysis.
 
 * :computer:  **Coding:** R, Python, SQL
 * :world_map: **GIS**: ArcGIS, QGIS
